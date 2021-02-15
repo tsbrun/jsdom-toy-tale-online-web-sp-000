@@ -28,7 +28,7 @@
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": null
     },
     {
       "id": 6,
@@ -47,6 +47,42 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "New Toy",
+      "image": "toyurl.com",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "New Toy",
+      "image": "toyurl.com",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Bratz Doll",
+      "image": "https://cdn-0.studybreaks.com/wp-content/uploads/2020/09/bratz-e1599979473889.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Bratz Doll",
+      "image": "bratz.com",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Another Toy",
+      "image": "toys.com",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Another One",
+      "image": "toys.com",
+      "likes": 0,
+      "id": 14
     }
   ]
 }
